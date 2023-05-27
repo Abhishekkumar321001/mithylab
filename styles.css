@@ -1,0 +1,114 @@
+
+* {
+
+			box-sizing: border-box;
+}
+
+html {
+
+			background: white;
+}
+
+body {
+
+			min-height: 680px;
+			border: 5px solid black;
+			border-radius: 20px;
+			background: #90EE90;
+
+}
+
+#greeting {
+
+			border: 1px solid black;
+			padding: 5px;
+			font-size: 150%;
+			background: lightcyan;
+			margin-bottom: 10px;
+
+}
+
+a {
+
+			text-decoration: none;
+
+}
+
+a:hover {
+
+			color: red;
+			background: black;
+
+}
+
+.button {
+
+			color: black;
+			border: 2px solid black;
+			padding: 5px 10px;
+			margin: 10px;
+			font-style: italic;
+			font-size: 200%;
+			border-radius: 5px;
+			box-shadow: 5px 5px 5px black;
+			background: #F9A602;			
+
+}
+
+.main {
+
+			margin: 15px;
+			padding: 10px;
+			font-size: 170%;
+
+}
+
+#mainline {
+			
+			font-size: 40px;	
+			border: 1px solid black;
+			padding: 5px 10px;
+			border-radius: 10px;
+			background: red;
+}
+
+.fieldname {
+
+			 float: left;
+			 width: 150px;
+}
+
+.available {
+
+				color: darkgreen;
+				font-style: italic;
+}
+
+.taken {
+
+				color: red;
+				font-style: italic;
+}
+
+.button1 {
+
+				border: 1px solid black;
+				padding: 5px 7px;
+				border-radius: 10px;
+				background: black;
+}
+
+#nomsg {
+
+				border: 1px solid black;
+				padding: 5px 7px;
+				color: red;
+				background: lightgrey;
+
+}
+
+#pm {
+
+				color: red;
+				font-style: italic;
+}
